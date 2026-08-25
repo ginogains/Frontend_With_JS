@@ -1,0 +1,114 @@
+Variables
+
+1. A container used to store data values.
+
+2. var, let, and const.
+
+3. var variableName = value;
+
+4. let variableName = value;
+
+5. const variableName = value;
+
+6. Creating or introducing a variable name into the program (e.g., let x;).
+
+7. Storing an initial value inside a variable for the first time (e.g., x = 10;).
+
+8. Giving a new value to an already declared variable (e.g., x = 20;).
+
+9. Declaring an already existing variable name again using a keyword.
+
+10. var.
+
+11. var and let.
+
+12. const.
+
+13. let age is the declaration; = 25 is the initialization.
+
+14. 100
+
+15. number = 200;
+
+var
+
+16. 10
+
+17. 20
+
+18. 30
+
+19. var name = "John";
+
+20. var price = 500;
+
+21. price = 1000;
+
+22. 100
+
+23. Yes.
+
+24. Yes.
+
+25. var x = 10;
+    var x = 20;
+
+let
+
+26. let age = 25;
+
+27. 30
+
+28. Yes.
+
+29. No.
+
+30. name is being redeclared using let, which causes a SyntaxError: Identifier 'name' has already been declared.
+
+31. let city = "Chennai";
+
+32. city = "Salem";
+
+33. 50
+
+34. let salary = 25000;
+
+35. salary = 30000;
+
+const
+
+36. const pi = 3.14;
+
+37. No.
+
+38. No.
+
+39. const variables must be initialized at the time of declaration. This throws a SyntaxError: Missing initializer in const declaration.
+
+40. It throws a TypeError: Assignment to constant variable. because const values cannot be reassigned.
+
+41. const country = "India";
+
+42. 100
+
+43. const.
+
+44. let allows reassignment and does not require immediate initialization; const cannot be reassigned and requires immediate initialization.
+
+45. var allows both redeclaration and reassignment; const allows neither and requires immediate initialization.
+
+Printing & Console
+
+46.console.log("Hello World");
+
+47. console.log(500);
+
+48. To print warning messages to the browser console (usually highlighted in yellow).
+
+49. To print error messages to the browser console (usually highlighted in red).
+
+50. alert(): Displays a popup dialog box with a message and an OK button.
+    prompt(): Displays a popup dialog box prompting the user to enter text input.
+    confirm(): Displays a popup dialog box with OK and Cancel buttons (returns true or false).
+    document.writeln(): Writes text directly to the HTML document body followed by a newline character.
+    console.log(): Outputs messages or data values to the browser's developer console.
